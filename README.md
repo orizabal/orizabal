@@ -4,6 +4,6 @@ I'm a Systems Design Engineering student at the University of Waterloo. I'm curr
 
 I am looking for internship opportunities for summer 2021! 👩🏽‍💻
 
-Linkedin: https://www.linkedin.com/in/orizabal/
-Personal website: https://orizabal.ca/
+Linkedin: https://www.linkedin.com/in/orizabal/ <br/>
+Personal website: https://orizabal.ca/ <br/>
 Email: sam.orizabal@gmail.com
